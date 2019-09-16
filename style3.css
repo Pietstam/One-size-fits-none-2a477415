@@ -1,0 +1,13 @@
+h2 {
+    color: purple;
+}
+
+h3, li{
+	color: red;
+}
+body {
+	background-color: blue;
+}
+image {
+	width: 250px;
+}
